@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187271562703",
+    "project_id": "uberreclone",
+    "storage_bucket": "uberreclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187271562703:android:bfeeac6eea8ef4e773beba",
+        "android_client_info": {
+          "package_name": "com.shopmax.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187271562703-nebhjptotspj43vhpocketuilpgg7qme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecOy6w9Pwx499I4tB2wqJjsNZtIdy6ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187271562703-nebhjptotspj43vhpocketuilpgg7qme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
